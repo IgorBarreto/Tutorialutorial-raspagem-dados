@@ -1,0 +1,17 @@
+# LINK DETALHADO DE COMO USAR O xpath
+https://docs.scrapy.org/en/latest/topics/selectors.html#topics-selectors
+http://zvon.org/comp/r/tut-XPath_1.html
+ 
+
+# Trabalhando com passagem de argumentos na linha de comando
+https://docs.scrapy.org/en/latest/topics/spiders.html#spiderargs
+
+# sobre seletores xpath e css
+https://docs.scrapy.org/en/latest/topics/selectors.html
+
+# buscando arquivos carregados dinamicamente
+https://docs.scrapy.org/en/latest/topics/dynamic-content.html
+
+
+# help
+https://docs.scrapy.org/en/latest/index.html#section-basics
