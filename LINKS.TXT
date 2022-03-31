@@ -15,3 +15,5 @@ https://docs.scrapy.org/en/latest/topics/dynamic-content.html
 
 # help
 https://docs.scrapy.org/en/latest/index.html#section-basics
+
+#documentação da lib splash. Raspagem de dados de páginas que contem javascrpt embutida 
